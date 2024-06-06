@@ -53,6 +53,7 @@ The nearly full list of tools for Data Engineering is mentioned in [this repo](h
 - [De Manejar](https://demanejar.github.io/) - Vietnamese
 - [Long Nguyen](https://longcnttbkhn.github.io/blog/) - Vietnamese
 - [Data Guy Story](https://www.dataguystory.com/) - Vietnamese
+- [ToiLaDuyet](https://blog.duyet.net/) - Vietnamese
 - [200Labs](https://200lab.io/blog/) - Vietnamese
 
 # References
